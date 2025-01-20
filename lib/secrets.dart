@@ -1,0 +1,1 @@
+const openApiKey = 'c8515d305ffc99f818846da21ce619e9';
